@@ -9,6 +9,21 @@ The proposed system aims to provide a reliable and efficient solution for accide
 The insights gained from this project are expected to contribute to the field of road safety
 and emergency services, and can be valuable for researchers in the transportation domain.
 
+## How to Use
+1. Connect the components as per the schematic.
+2. Upload the `main.ino` file to your Arduino board.
+3. Ensure the GSM module has an active SIM card.
+4. Power on the system and test the sensors for impact, tilt, and flame detection.
+
+## Components
+- Arduino Uno
+- GPS Module
+- GSM Module
+- Impact Sensors
+- Tilt Sensor
+- Flame Sensor
+- ESP32-CAM
+
 
 ![image](https://github.com/ParthChande/IoT-based-Accident-Detection-System/assets/119730313/d38baca8-3d46-4f81-8050-197e2027b876)
 ![image](https://github.com/ParthChande/IoT-based-Accident-Detection-System/assets/119730313/861a38cd-36d4-439f-a1c8-3ad7ea339e8a)
