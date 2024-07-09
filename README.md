@@ -11,7 +11,7 @@ and emergency services, and can be valuable for researchers in the transportatio
 
 ## How to Use
 1. Connect the components as per the schematic.
-2. Upload the `main.ino` file to your Arduino board.
+2. Upload the `Accident_Detection_System.ino` file to your Arduino board.
 3. Ensure the GSM module has an active SIM card.
 4. Power on the system and test the sensors for impact, tilt, and flame detection.
 
